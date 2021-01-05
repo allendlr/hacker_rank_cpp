@@ -1,1 +1,1 @@
-print(x)
+print(x, 1)
